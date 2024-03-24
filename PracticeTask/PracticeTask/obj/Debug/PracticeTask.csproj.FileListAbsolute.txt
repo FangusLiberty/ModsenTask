@@ -1,0 +1,7 @@
+C:\Users\eduar\source\repos\PracticeTask\PracticeTask\bin\Debug\PracticeTask.exe.config
+C:\Users\eduar\source\repos\PracticeTask\PracticeTask\bin\Debug\PracticeTask.exe
+C:\Users\eduar\source\repos\PracticeTask\PracticeTask\bin\Debug\PracticeTask.pdb
+C:\Users\eduar\source\repos\PracticeTask\PracticeTask\obj\Debug\PracticeTask.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\PracticeTask\PracticeTask\obj\Debug\PracticeTask.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\PracticeTask\PracticeTask\obj\Debug\PracticeTask.exe
+C:\Users\eduar\source\repos\PracticeTask\PracticeTask\obj\Debug\PracticeTask.pdb
